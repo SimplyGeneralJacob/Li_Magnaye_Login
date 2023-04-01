@@ -16,7 +16,7 @@ function validateForm() {
 }
 
 document.getElementById("log-in").addEventListener("click", function(){
- window.location = "../2nd QTR Project/index.html"
+ window.location = "2nd QTR Project/index.html"
 })
 
 document.getElementById("forgot").addEventListener("click", function() {
